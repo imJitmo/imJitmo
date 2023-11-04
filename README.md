@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jerram0421@gmail.com**
 
-- ⚡ Fun fact **I think I am not good in vocal communication**
+- ⚡ Fun fact **I think I am not good at vocal communication**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
