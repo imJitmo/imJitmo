@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jerram/Jitmo</h1>
-<h3 align="center">I am a beginner and passionate mern stack developer for the Philippines</h3>
+<h3 align="center">I am a beginner and a passionate MERN stack developer for the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imjitmo&label=Profile%20views&color=0e75b6&style=flat" alt="imjitmo" /> </p>
 
