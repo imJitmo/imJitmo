@@ -22,8 +22,8 @@
 <a href="https://twitter.com/imjitmo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imjitmo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jerram0421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerram0421" height="30" width="40" /></a>
 <a href="https://fb.com/pangilinan.jerram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pangilinan.jerram" height="30" width="40" /></a>
-<a href="https://instagram.com/@imjitmo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imjitmo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jitmo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jitmo" height="30" width="40" /></a>
+<a href="https://instagram.com/imjitmo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imjitmo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@jitmo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jitmo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
