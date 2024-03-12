@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/imjitmo" target="blank"><img src="https://img.shields.io/twitter/follow/imjitmo?logo=twitter&style=for-the-badge" alt="imjitmo" /></a> </p>
 
-- 🔭 I’m currently working on **HRIS+SIS MERN APP**
+- 🔭 I’m currently working on **MERN (TECHFINDER APP)**
 
 - 🌱 I’m currently learning **Python, Django, AWS, PHP & Laravel**
 
